@@ -1,11 +1,11 @@
 
-h1 { font-family: "Arial" }
-h1 { font-family: "Times New Roman" }
+h1 { font-family: "Calibri" }
+h1 { font-family: "Calibri" }
 
-h1 { color: red;  }
+h1 { color: Black;  }
 
 body {
-  font-family: "Arial";
+  font-family: "Calibri";
   width: 960px;
   margin-left: 100px;
   margin-right: 100px;
