@@ -4,6 +4,9 @@ div { border: solid 5px Black;
 h1 { font-family: "Calibri" }
 h1 { font-family: "Calibri" }
 h1 { color: Red;  }
+h1 { padding: 0px}
+
+h2 { padding: 0px}
 
 body {
   font-family: "Calibri";
