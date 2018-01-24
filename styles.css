@@ -1,7 +1,11 @@
 
-h1 { font-family: "Calibri" }
-h1 { font-family: "Calibri" }
+head {text-align: right;}
 
+div { border: solid 5px Black;
+  padding: 10px}
+
+h1 { font-family: "Calibri" }
+h1 { font-family: "Calibri" }
 h1 { color: Black;  }
 
 body {
@@ -10,5 +14,4 @@ body {
   margin-left: 100px;
   margin-right: 100px;
   margin-top: 50px;
-  margin-bottom: 50px;
-}
+  margin-bottom: 50px;}
